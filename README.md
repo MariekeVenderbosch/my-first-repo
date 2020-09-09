@@ -1,4 +1,4 @@
 # my-first-repo
-![img](img/zelfpotret foto.jpg)
+![img](img/zelfpotretfoto.jpg)
 
 [zuyd](https://zuyd.nl)
